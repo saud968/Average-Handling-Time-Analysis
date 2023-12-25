@@ -64,7 +64,9 @@ The report is set on multiple pages as per the requirement:
 ## Analysis:
 
 ### Note: 
-**Dax used in features are important to achieve the hh:mm:ss format for AHT from text Data Type and conversion into minutes to apply data in bar and line charts.**
+**1. Dax used in features are important to achieve the hh:mm:ss format for AHT from text Data Type and conversion into minutes to apply data in bar and line charts.**
+**2. We used Power Query as our AHT from the data was under text format. We used the "Extract from Delimeter" option from Transform Data and extracted the AHT as Text in 11m 12s format. Which was later modified by using the above Dax to get from Analysis.**
+![Power Query](https://github.com/saud968/Average-Handling-Time-Analysis/blob/main/Power%20Query.png)
 
 1. Overall Page.
 ![Overall Page](https://github.com/saud968/Average-Handling-Time-Analysis/blob/main/Intro%20Page.png)
