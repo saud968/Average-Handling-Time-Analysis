@@ -64,26 +64,25 @@ The report is set on multiple pages as per the requirement:
 ## Analysis:
 
 ### Note: 
-Dax used in features are important to achieve the hh:mm:ss format for AHT from text Data Type and conversion into minutes to apply data in bar and line charts. 
-1. Summary Page.
-![Summary Page](https://github.com/saud968/Abandon-Chat-Analysis/blob/main/Intro%20Page.png)
-This page gives us abandon, total chat count, and abandon % month-wise, day-wise, and hour-wise with different visuals like Matrix, Bar and Line Chart, and Small Multiples. 
-![Abandon Week by Hours](https://github.com/saud968/Abandon-Chat-Analysis/blob/main/Abandon%20by%20Week.png))
-![Abandon Month by Hours](https://github.com/saud968/Abandon-Chat-Analysis/blob/main/Abandon%20by%20months%20by%20hours.png)
-![Abandon Bar and Line Chart](https://github.com/saud968/Abandon-Chat-Analysis/blob/main/Abandon%20Overall%20Bar%20and%20Line%20Chart.png)
-![Abandon Small Multiples](https://github.com/saud968/Abandon-Chat-Analysis/blob/main/Abandon%20Overall%20Bar%20and%20Line%20Chart%20(Small%20Multiples).png)
+**Dax used in features are important to achieve the hh:mm:ss format for AHT from text Data Type and conversion into minutes to apply data in bar and line charts.**
 
-2. Abandon Heatmap.
-![Abandon % Heatmap](https://github.com/saud968/Abandon-Chat-Analysis/blob/main/Heatmap%20Abandon%20%25.png)
-![Abandon Total Count Heatmap](https://github.com/saud968/Abandon-Chat-Analysis/blob/main/Heatmap%20Total%20Chat%20Count.png)
-![Abandon Count Heatmap](https://github.com/saud968/Abandon-Chat-Analysis/blob/main/Heatmap%20Abandon%20Count.png)
-This page gives us abandon, total chat count, and abandon % month-wise, day-wise, and hour-wise in a heatmap version.
+1. Overall Page.
+![Overall Page](https://github.com/saud968/Average-Handling-Time-Analysis/blob/main/Intro%20Page.png)
+This page gives us AHT, Total Hours, and Difference in chat to case closure month-wise, day-wise, and hour-wise with different visuals like Matrix, Bar and Line Chart, and Small Multiples. 
+![By Hours and Week](https://github.com/saud968/Average-Handling-Time-Analysis/blob/main/Overall%20Page%20-%201%20(Days%2C%20Months%2C%20and%20Hours).png)
+![Bar and line chart](https://github.com/saud968/Average-Handling-Time-Analysis/blob/main/Overall%20Page%20-%202%20(Bar%20and%20Line%20Chart).png)
+![Small Multiples](https://github.com/saud968/Average-Handling-Time-Analysis/blob/main/Overall%20Page%20-%203%20(Bar%20and%20Line%20Chart%20with%20Small%20Multiples).png)
 
-3. Pillar Abandon Heatmap.
-![New Slicer Button](https://github.com/saud968/Abandon-Chat-Analysis/blob/main/New%20Button%20Slicer.png)
-![Abandon % Heatmap](https://github.com/saud968/Abandon-Chat-Analysis/blob/main/Heatmap%20Abandon%20%25.png)
-![Abandon Total Count Heatmap](https://github.com/saud968/Abandon-Chat-Analysis/blob/main/Heatmap%20Total%20Chat%20Count.png)
-![Abandon Count Heatmap](https://github.com/saud968/Abandon-Chat-Analysis/blob/main/Heatmap%20Abandon%20Count.png)
-This page gives us abandon, total chat count, and abandon % month-wise, day-wise, and hour-wise in a heatmap version. However, it has a new slicer button that allows to separate the business groups which is known as Pillar. 
+2. First Touch.
+![By Hours and Week](https://github.com/saud968/Average-Handling-Time-Analysis/blob/main/Overall%20Page%20-%201%20(Days%2C%20Months%2C%20and%20Hours).png)
+![Bar and line chart](https://github.com/saud968/Average-Handling-Time-Analysis/blob/main/Overall%20Page%20-%202%20(Bar%20and%20Line%20Chart).png)
+![Small Multiples](https://github.com/saud968/Average-Handling-Time-Analysis/blob/main/Overall%20Page%20-%203%20(Bar%20and%20Line%20Chart%20with%20Small%20Multiples).png)
+This page gives us AHT, Total Hours, and Difference in chat to case closure month-wise, day-wise, and hour-wise with different visuals like Matrix, Bar and Line Chart, and Small Multiples. However, it filters on First Touch Count (Issue resolved in First Interaction).
+
+3. Heatmap.
+![AHT Heatmap](https://github.com/saud968/Average-Handling-Time-Analysis/blob/main/Heatmap%20-%20AHT.png)
+![Total Hours Heatmap](https://github.com/saud968/Average-Handling-Time-Analysis/blob/main/Heatmap%20-%20Total%20Hours.png)
+![Chat to Close Heatmap](https://github.com/saud968/Average-Handling-Time-Analysis/blob/main/Heatmap%20-%20Chat%20to%20Close.png)
+This page gives us AHT, Total Hours, and Difference in chat to case closure month-wise, day-wise, and hour-wise in a heatmap version. 
 
 
